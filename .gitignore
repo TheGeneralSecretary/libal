@@ -1,0 +1,7 @@
+.env
+config.json
+build
+lib
+.vscode
+al.qt.*
+*.expand
